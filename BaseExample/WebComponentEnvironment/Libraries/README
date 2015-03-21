@@ -1,0 +1,5 @@
+Libraries Folder
+================
+
+Manager Library must be located in thos folder. 
+Because manager can find base location with library location.

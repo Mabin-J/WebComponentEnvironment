@@ -1,0 +1,13 @@
+Configurations Folder
+=====================
+
+You can add Configurations in this folder and use it.
+
+Configuration File must be XML format.
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration Package="PackageName of Component">
+	<NodeName>Value</NodeName>
+</Configuration>
+```
