@@ -1,0 +1,3 @@
+[submodule "ManagerLibrary"]
+	path = ManagerLibrary
+	url = git@github.com:mabin359/WebComponentEnvironment-ManagerLibrary.git
