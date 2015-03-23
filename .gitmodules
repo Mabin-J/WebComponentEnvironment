@@ -1,3 +1,9 @@
 [submodule "ManagerLibrary"]
 	path = ManagerLibrary
 	url = git@github.com:mabin359/WebComponentEnvironment-ManagerLibrary.git
+[submodule "ComponentExamples/Exam1"]
+	path = ComponentExamples/Exam1
+	url = git@github.com:mabin359/WebComponentEnvironment-ComponentExam1.git
+[submodule "ComponentExamples/Exam2"]
+	path = ComponentExamples/Exam2
+	url = git@github.com:mabin359/WebComponentEnvironment-ComponentExam2.git
