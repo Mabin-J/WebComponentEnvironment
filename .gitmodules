@@ -7,3 +7,9 @@
 [submodule "ComponentExamples/Exam2"]
 	path = ComponentExamples/Exam2
 	url = git@github.com:mabin359/WebComponentEnvironment-ComponentExam2.git
+[submodule "SupportLibrary"]
+	path = SupportLibrary
+	url = git@github.com:mabin359/WebComponentEnvironment-SupportLibrary.git
+[submodule "ComponentExamples/Exam3"]
+	path = ComponentExamples/Exam3
+	url = git@github.com:mabin359/WebComponentEnvironment-ComponentExam3.git

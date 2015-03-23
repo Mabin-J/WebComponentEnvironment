@@ -483,3 +483,11 @@ To register EventListener to Manager, you set it in 'WCManifest.xml'.
   	<!-- You can set more EventListener Class -->
 	</EventListenerClasses>
 ```
+
+
+===============
+Support Library
+===============
+This provides more easy way of developing component.
+
+[Read README.md of 'Support Library'.](https://github.com/mabin359/WebComponentEnvironment-SupportLibrary)
